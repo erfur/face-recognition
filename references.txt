@@ -1,0 +1,6 @@
+https://krasserm.github.io/2018/02/07/deep-face-recognition/
+https://github.com/krasserm/face-recognition
+http://nbviewer.jupyter.org/github/krasserm/face-recognition/blob/master/face-recognition.ipynb?flush_cache=true
+
+https://medium.freecodecamp.org/making-your-own-face-recognition-system-29a8e728107c
+https://github.com/Skuldur/facenet-face-recognition

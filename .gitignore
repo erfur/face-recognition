@@ -2,3 +2,5 @@ lfw/
 models/
 openface/
 pairs_out.txt
+
+*.pyc
